@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+}
+
+#myCanvas {
+    border-width: 5px;
+    border-style: ridge;
+}
